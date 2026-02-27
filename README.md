@@ -1,20 +1,11 @@
-\# Titanic Survival Prediction
+## Titanic Survival Prediction
 
+This project predicts whether a passenger survived the Titanic disaster using Machine Learning (Logistic Regression).
 
-
-This project predicts whether a passenger survived the Titanic disaster
-
-using Machine Learning (Logistic Regression).
-
-
-
-\## Dataset
-
+## Dataset
 Kaggle Titanic Dataset
 
-
-
-\## Steps Performed
+## Steps Performed
 
 \- Data cleaning and preprocessing
 
@@ -30,7 +21,7 @@ Kaggle Titanic Dataset
 
 
 
-\## Results
+## Results
 
 \- Test Accuracy: ~79%
 
@@ -42,7 +33,7 @@ Kaggle Titanic Dataset
 
 
 
-\## Tools Used
+## Tools Used
 
 \- Python
 
